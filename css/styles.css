@@ -7486,7 +7486,8 @@ textarea.form-control-lg {
 }
 
 .rounded-circle {
-  border-radius: 70% !important;
+  border-radius: 50% !important;
+  max-width:100%;
 }
 
 .rounded-pill {
