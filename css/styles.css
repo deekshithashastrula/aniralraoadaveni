@@ -11175,6 +11175,7 @@ header.masthead .masthead-heading {
 .timeline .timeline-body > ul,
 .timeline .timeline-body > p {
   margin-bottom: 0;
+  font-family:"Papyrus",fantasy;
 }
 
 @media (min-width: 768px) {
