@@ -11257,6 +11257,10 @@ header.masthead .masthead-heading {
     padding: 0 100px 20px 20px;
   }
 }
+.t1{
+  background-image: url("../t1.jpeg");
+  
+}
 .team-member {
   margin-bottom: 3rem;
   text-align: center;
