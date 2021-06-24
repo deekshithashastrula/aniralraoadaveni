@@ -571,6 +571,9 @@ progress {
   max-width: 100%;
   height: auto;
 }
+#widthport{
+  max-width:75%;
+}
 
 .img-thumbnail {
   padding: 0.25rem;
