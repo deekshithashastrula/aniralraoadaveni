@@ -10857,9 +10857,11 @@ p {
 }
 .c{
   color:rgb(0,0,0);
+  background-color: rgba(255, 255, 255, 0.85);
 }
 #c{
   color:rgba(0, 0, 0);
+  background-color: rgba(255, 255, 255, 0.85);
 }
 .page-section {
   padding: 6rem 0;
