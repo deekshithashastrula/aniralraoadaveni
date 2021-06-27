@@ -11263,8 +11263,9 @@ header.masthead .masthead-heading {
 }
 .t1{
   background-color:#34383c;
+}
+.t2{
   background-image: url("../cake.jpeg");
-
 }
 .team-member {
   margin-bottom: 3rem;
