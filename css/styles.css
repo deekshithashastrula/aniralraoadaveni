@@ -10852,9 +10852,11 @@ p {
   line-height: 1.75;
 }
 .c{
-  color:rgba(0, 0, 0, 0.5);
+  color:rgba(0, 0, 0, 0.9);
 }
-
+#c{
+  color:rgba(0, 0, 0, 0.9);
+}
 .page-section {
   padding: 6rem 0;
   
