@@ -10854,7 +10854,7 @@ p {
 
 .page-section {
   padding: 6rem 0;
-  background-image: url("../cake.jpeg");
+  
 }
 .page-section h2.section-heading, .page-section .section-heading.h2 {
   font-size: 2.5rem;
@@ -11263,6 +11263,7 @@ header.masthead .masthead-heading {
 }
 .t1{
   background-color:#34383c;
+  background-image: url("../cake.jpeg");
 
 }
 .team-member {
